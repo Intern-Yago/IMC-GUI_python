@@ -1,0 +1,7 @@
+.idea
+bin
+lib
+lib64
+nohup.out
+pyvenv.cfg
+share/
